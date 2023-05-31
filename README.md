@@ -1,1 +1,1 @@
-My first readme
+Codimg is fun
