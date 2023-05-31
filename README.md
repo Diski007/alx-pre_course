@@ -1,1 +1,1 @@
-Codimg is fun
+Coding is fun
